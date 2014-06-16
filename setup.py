@@ -3,7 +3,7 @@ import os
 import pkg_resources
 from distutils.version import LooseVersion
 
-version = '1.0rc2-FHNW2'
+version = '1.0.dev0'
 
 long_description = (
     open('README.rst').read()
