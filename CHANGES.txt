@@ -1,8 +1,8 @@
 Changelog
 =========
 
-0.1rc3 (unreleased)
--------------------
+1.0rc2-FHNW2 (2014-06-16)
+-------------------------
 
 - Check for plone.namedfile not Dexterity. It can be used seperately.
   *If plone.namedfile is used it needs to be at least version 2.0.1*
